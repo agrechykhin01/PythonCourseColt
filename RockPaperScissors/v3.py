@@ -54,4 +54,6 @@ elif player_wins == computer_wins:
     print("It's a tie!")
 else:
     print("Oh no! Computer won!")
-print(f"FINAL SCORES: Player score: {player_wins} Computer score: {computer_wins}")
+print(
+    f"FINAL SCORES: Player score: {player_wins} Computer score: {computer_wins}")
+
